@@ -1,0 +1,905 @@
+Packages available: 63846
+Parsing installed packages from data/installed-packages
+Packages installed: 3775
+Package ruby-oj:
+- dependency "libc6 (>= 2.29)"
++ libc6 satisfied by installed version 2.33-1
+- dependency "libruby2.7 (>= 2.7.0) | libruby3.0 (>= 3.0.0~preview2)"
++ libruby2.7 satisfied by installed version 2.7.5-1
+- dependency "ruby (>= 1:2.7~0) | ruby (>= 1:3.0~0)"
++ ruby satisfied by installed version 1:2.7.6
+- dependency "ruby (<< 1:3.1~)"
++ ruby satisfied by installed version 1:2.7.6
+Package g++-10-riscv64-linux-gnu:
+- dependency "gcc-10-riscv64-linux-gnu-base (= 10.3.0-8cross1)"
+-> not satisfied
+- dependency "gcc-10-riscv64-linux-gnu (= 10.3.0-8cross1)"
+-> not satisfied
+- dependency "libstdc++-10-dev-riscv64-cross (>= 10)"
+-> not satisfied
+- dependency "libc6 (>= 2.14)"
++ libc6 satisfied by installed version 2.33-1
+- dependency "libgmp10 (>= 2:5.0.1~)"
++ libgmp10 satisfied by installed version 2:6.2.1+dfsg-3
+- dependency "libisl23 (>= 0.15)"
++ libisl23 satisfied by installed version 0.24-2
+- dependency "libmpc3 (>= 1.1.0)"
++ libmpc3 satisfied by installed version 1.2.1-1
+- dependency "libmpfr6 (>= 3.1.3)"
++ libmpfr6 satisfied by installed version 4.1.0-3
+- dependency "libzstd1 (>= 1.4.0)"
++ libzstd1 satisfied by installed version 1.4.8+dfsg-3
+- dependency "zlib1g (>= 1:1.1.4)"
++ zlib1g satisfied by installed version 1:1.2.11.dfsg-2
+Package ntp:
+- dependency "adduser"
++ adduser satisfied by installed version 3.118
+- dependency "lsb-base (>= 3.2-13)"
++ lsb-base satisfied by installed version 11.1.0
+- dependency "netbase"
++ netbase satisfied by installed version 6.3
+- dependency "tzdata"
++ tzdata satisfied by installed version 2021e-1
+- dependency "libc6 (>= 2.17)"
++ libc6 satisfied by installed version 2.33-1
+- dependency "libcap2 (>= 1:2.10)"
++ libcap2 satisfied by installed version 1:2.44-1
+- dependency "libedit2 (>= 2.11-20080614-0)"
++ libedit2 satisfied by installed version 3.1-20210910-1
+- dependency "libopts25 (>= 1:5.18.16)"
++ libopts25 satisfied by installed version 1:5.18.16-4
+- dependency "libssl1.1 (>= 1.1.0)"
++ libssl1.1 satisfied by installed version 1.1.1m-1
+Package librust-goblin-2+mach64-dev:
+Package granule:
+- dependency "libassa-3.5-5v5 (>> 3.5.0)"
+-> not satisfied
+- dependency "libatkmm-1.6-1v5 (>= 2.28.2)"
++ libatkmm-1.6-1v5 satisfied by installed version 2.28.2-1
+- dependency "libc6 (>= 2.14)"
++ libc6 satisfied by installed version 2.33-1
+- dependency "libgcc-s1 (>= 3.0)"
++ libgcc-s1 satisfied by installed version 11.2.0-13
+- dependency "libglib2.0-0 (>= 2.12.0)"
++ libglib2.0-0 satisfied by installed version 2.70.2-1
+- dependency "libglibmm-2.4-1v5 (>= 2.64.2)"
++ libglibmm-2.4-1v5 satisfied by installed version 2.66.2-1
+- dependency "libgtk2.0-0 (>= 2.8.0)"
++ libgtk2.0-0 satisfied by installed version 2.24.33-2
+- dependency "libgtkmm-2.4-1v5 (>= 1:2.24.0)"
+-> not satisfied
+- dependency "libpango-1.0-0 (>= 1.14.0)"
++ libpango-1.0-0 satisfied by installed version 1.48.10+ds1-1
+- dependency "libpangomm-1.4-1v5 (>= 2.46.1)"
++ libpangomm-1.4-1v5 satisfied by installed version 2.46.1-1
+- dependency "libsigc++-2.0-0v5 (>= 2.8.0)"
++ libsigc++-2.0-0v5 satisfied by installed version 2.10.4-2
+- dependency "libstdc++6 (>= 5.2)"
++ libstdc++6 satisfied by installed version 11.2.0-13
+- dependency "libxml2 (>= 2.7.4)"
++ libxml2 satisfied by installed version 2.9.12+dfsg-5+b1
+Package libbg2-doc:
+Package libdtkgui5-bin:
+- dependency "libdtkgui5 (= 5.5.17.1-1)"
+-> not satisfied
+- dependency "libc6 (>= 2.4)"
++ libc6 satisfied by installed version 2.33-1
+- dependency "libdtkcore5 (>= 5.5.17.1-1~)"
+-> not satisfied
+- dependency "libgcc-s1 (>= 3.0)"
++ libgcc-s1 satisfied by installed version 11.2.0-13
+- dependency "libqt5core5a (>= 5.15.1)"
++ libqt5core5a satisfied by installed version 5.15.2+dfsg-14
+- dependency "libqt5gui5 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0)"
++ libqt5gui5 satisfied by installed version 5.15.2+dfsg-14
+- dependency "libqt5widgets5 (>= 5.0.2)"
++ libqt5widgets5 satisfied by installed version 5.15.2+dfsg-14
+- dependency "libstdc++6 (>= 4.1.1)"
++ libstdc++6 satisfied by installed version 11.2.0-13
+Package librust-mime-dev:
+- dependency "librust-unicase-2+default-dev"
+-> not satisfied
+Package libtrilinos-rythmos12:
+- dependency "libc6 (>= 2.29)"
++ libc6 satisfied by installed version 2.33-1
+- dependency "libgcc-s1 (>= 3.0)"
++ libgcc-s1 satisfied by installed version 11.2.0-13
+- dependency "libopenmpi3 (>= 4.1.2~rc1)"
+-> not satisfied
+- dependency "libstdc++6 (>= 11)"
++ libstdc++6 satisfied by installed version 11.2.0-13
+- dependency "libtrilinos-rtop12 (>= 12.18.1)"
+-> not satisfied
+- dependency "libtrilinos-teuchos12 (>= 12.18.1)"
+-> not satisfied
+- dependency "libtrilinos-thyra12 (>= 12.18.1)"
+-> not satisfied
+Package djvulibre-bin:
+- dependency "libc6 (>= 2.29)"
++ libc6 satisfied by installed version 2.33-1
+- dependency "libdjvulibre21 (= 3.5.28-2)"
++ libdjvulibre21 satisfied by installed version 3.5.28-2
+- dependency "libgcc-s1 (>= 3.0)"
++ libgcc-s1 satisfied by installed version 11.2.0-13
+- dependency "libstdc++6 (>= 5)"
++ libstdc++6 satisfied by installed version 11.2.0-13
+- dependency "libtiff5 (>= 4.0.3)"
++ libtiff5 satisfied by installed version 4.3.0-2
+- dependency "curl"
++ curl satisfied by installed version 7.81.0-1
+Package libmetkit-data:
+Package libspring-test-java:
+- dependency "libspring-core-java (= 4.3.30-1)"
+-> not satisfied
+Package kgendesignerplugin-bin:
+- dependency "kdesignerplugin-data (= 5.88.0-1)"
+-> not satisfied
+- dependency "libc6 (>= 2.14)"
++ libc6 satisfied by installed version 2.33-1
+- dependency "libkf5configcore5 (>= 5.88.0~)"
+-> not satisfied
+- dependency "libkf5coreaddons5 (>= 5.88.0~)"
+-> not satisfied
+- dependency "libqt5core5a (>= 5.15.2~)"
++ libqt5core5a satisfied by installed version 5.15.2+dfsg-14
+- dependency "libstdc++6 (>= 5)"
++ libstdc++6 satisfied by installed version 11.2.0-13
+Package librust-gobject-sys-0.14+v2-54-dev:
+Package librime-data-sampheng:
+- dependency "librime-data"
+-> not satisfied
+- dependency "librime-data-luna-pinyin"
+-> not satisfied
+Package fonts-khmeros:
+Package libcairo-perl:
+- dependency "perl"
++ perl satisfied by installed version 5.32.1-6
+- dependency "perlapi-5.32.1"
+-> not satisfied
+- dependency "libc6 (>= 2.14)"
++ libc6 satisfied by installed version 2.33-1
+- dependency "libcairo2 (>= 1.15.8)"
++ libcairo2 satisfied by installed version 1.16.0-5
+Package python3-pyside2.qtquickwidgets:
+- dependency "python3 (<< 3.11)"
++ python3 satisfied by installed version 3.9.8-1
+- dependency "python3 (>= 3.9~)"
++ python3 satisfied by installed version 3.9.8-1
+- dependency "libc6 (>= 2.14)"
++ libc6 satisfied by installed version 2.33-1
+- dependency "libgcc-s1 (>= 3.0)"
++ libgcc-s1 satisfied by installed version 11.2.0-13
+- dependency "libpyside2-py3-5.15 (>= 5.15.2)"
+-> not satisfied
+- dependency "libqt5core5a (>= 5.15)"
++ libqt5core5a satisfied by installed version 5.15.2+dfsg-14
+- dependency "libqt5gui5 (>= 5.15) | libqt5gui5-gles (>= 5.15)"
++ libqt5gui5 satisfied by installed version 5.15.2+dfsg-14
+- dependency "libqt5qml5 (>= 5.15)"
++ libqt5qml5 satisfied by installed version 5.15.2+dfsg-9
+- dependency "libqt5quickwidgets5 (>= 5.15)"
++ libqt5quickwidgets5 satisfied by installed version 5.15.2+dfsg-9
+- dependency "libqt5widgets5 (>= 5.15)"
++ libqt5widgets5 satisfied by installed version 5.15.2+dfsg-14
+- dependency "libshiboken2-py3-5.15 (>= 5.15.2)"
+-> not satisfied
+- dependency "libstdc++6 (>= 4.1.1)"
++ libstdc++6 satisfied by installed version 11.2.0-13
+- dependency "python3-pyside2.qtcore"
+-> not satisfied
+- dependency "python3-pyside2.qtgui"
+-> not satisfied
+- dependency "python3-pyside2.qtwidgets"
+-> not satisfied
+- dependency "python3-pyside2.qtnetwork"
+-> not satisfied
+- dependency "python3-pyside2.qtquick"
+-> not satisfied
+- dependency "python3-pyside2.qtqml"
+-> not satisfied
+Package librlog-dev:
+- dependency "librlog5v5 (= 1.4-4.1)"
+-> not satisfied
+Package embassy-domsearch:
+- dependency "emboss-lib (>= 6.6.0-1~)"
+-> not satisfied
+- dependency "libc6 (>= 2.4)"
++ libc6 satisfied by installed version 2.33-1
+- dependency "libx11-6"
++ libx11-6 satisfied by installed version 2:1.7.2-2+b1
+- dependency "emboss-lib (<< 6.6.1~)"
+-> not satisfied
+Package libglobus-gram-job-manager-callout-error0:
+- dependency "libglobus-common0 (>= 17)"
+-> not satisfied
+Package python3-botan:
+- dependency "python3"
++ python3 satisfied by installed version 3.9.8-1
+- dependency "libbotan-2-18 (= 2.18.2+dfsg-1)"
++ libbotan-2-18 satisfied by installed version 2.18.2+dfsg-1
+Package libmaven3-core-java:
+- dependency "libatinject-jsr330-api-java"
++ libatinject-jsr330-api-java satisfied by installed version 1.0+ds1-5
+- dependency "libcommons-cli-java (>= 1.4)"
++ libcommons-cli-java satisfied by installed version 1.4-2
+- dependency "libcommons-lang3-java (>= 3.11)"
++ libcommons-lang3-java satisfied by installed version 3.11-1
+- dependency "libgeronimo-annotation-1.3-spec-java"
++ libgeronimo-annotation-1.3-spec-java satisfied by installed version 1.3-1
+- dependency "libguice-java"
++ libguice-java satisfied by installed version 4.2.3-2
+- dependency "libmaven-parent-java (>= 3.x)"
++ libmaven-parent-java satisfied by installed version 31-2
+- dependency "libmaven-resolver-java (>= 1.4.2)"
++ libmaven-resolver-java satisfied by installed version 1.4.2-3
+- dependency "libmaven-shared-utils-java (>= 3.3.0)"
++ libmaven-shared-utils-java satisfied by installed version 3.3.0-1
+- dependency "libplexus-cipher-java"
++ libplexus-cipher-java satisfied by installed version 1.8-2
+- dependency "libplexus-classworlds-java (>= 2.6.0)"
++ libplexus-classworlds-java satisfied by installed version 2.6.0-1
+- dependency "libplexus-component-annotations-java (>= 2.1.0)"
++ libplexus-component-annotations-java satisfied by installed version 2.1.0-1
+- dependency "libplexus-interpolation-java (>= 1.26)"
++ libplexus-interpolation-java satisfied by installed version 1.26-1
+- dependency "libplexus-sec-dispatcher-java (>= 1.4)"
++ libplexus-sec-dispatcher-java satisfied by installed version 1.4-4
+- dependency "libplexus-utils2-java (>= 3.2)"
++ libplexus-utils2-java satisfied by installed version 3.3.0-1
+- dependency "libsisu-inject-java (>= 0.3.4)"
++ libsisu-inject-java satisfied by installed version 0.3.4-2
+- dependency "libsisu-plexus-java (>= 0.3.4)"
++ libsisu-plexus-java satisfied by installed version 0.3.4-3
+- dependency "libslf4j-java (>= 1.7.30)"
++ libslf4j-java satisfied by installed version 1.7.32-1
+- dependency "libwagon-provider-api-java (>= 3.3.4)"
++ libwagon-provider-api-java satisfied by installed version 3.3.4-1
+Package btrfsmaintenance:
+- dependency "btrfs-progs"
++ btrfs-progs satisfied by installed version 5.15.1-1
+- dependency "systemd | cron"
++ systemd satisfied by installed version 249.7-1
+Package crystal-doc:
+Package libmodule-build-tiny-perl:
+- dependency "perl"
++ perl satisfied by installed version 5.32.1-6
+- dependency "libextutils-config-perl"
+-> not satisfied
+- dependency "libextutils-helpers-perl"
+-> not satisfied
+- dependency "libextutils-installpaths-perl"
+-> not satisfied
+- dependency "perl (>= 5.19.5) | libtest-harness-perl (>= 3.29)"
++ perl satisfied by installed version 5.32.1-6
+- dependency "perl (>= 5.13.10) | libcpan-meta-perl"
++ perl satisfied by installed version 5.32.1-6
+- dependency "perl (>= 5.13.9) | libjson-pp-perl"
++ perl satisfied by installed version 5.32.1-6
+Package r-cran-ecodist:
+- dependency "libblas3 | libblas.so.3"
++ libblas3 satisfied by installed version 3.10.0-2
+- dependency "libc6 (>= 2.4)"
++ libc6 satisfied by installed version 2.33-1
+- dependency "r-base-core (>= 4.0.2-1)"
+-> not satisfied
+- dependency "r-api-4.0"
+-> not satisfied
+Package libghc-inspection-testing-doc:
+- dependency "haddock-interface-35"
+-> not satisfied
+Package libopencv-core3.2:
+Package libghc-th-desugar-prof-1.10-1d7f8:
+Package fst-dev:
+Package freeipa-healthcheck:
+- dependency "python3"
++ python3 satisfied by installed version 3.9.8-1
+- dependency "python3-ipahealthcheck-core"
+-> not satisfied
+Package python3-hiera:
+- dependency "python3-simplejson"
+-> not satisfied
+- dependency "python3"
++ python3 satisfied by installed version 3.9.8-1
+- dependency "hiera"
+-> not satisfied
+Package python3-plyara:
+- dependency "python3-ply"
+-> not satisfied
+- dependency "python3"
++ python3 satisfied by installed version 3.9.8-1
+Package gobjc-s390x-linux-gnu:
+- dependency "cpp-s390x-linux-gnu (>= 4:11.2.0-2)"
+-> not satisfied
+- dependency "gcc-s390x-linux-gnu (>= 4:11.2.0-2)"
+-> not satisfied
+- dependency "gobjc-11-s390x-linux-gnu (>= 11.2.0-1~)"
+-> not satisfied
+Package libtemplate-multilingual-perl:
+- dependency "perl"
++ perl satisfied by installed version 5.32.1-6
+- dependency "libtemplate-perl"
+-> not satisfied
+Package libgnuradio-channels3.8.2:
+- dependency "libc6 (>= 2.29)"
++ libc6 satisfied by installed version 2.33-1
+- dependency "libgcc-s1 (>= 4.0)"
++ libgcc-s1 satisfied by installed version 11.2.0-13
+- dependency "libgnuradio-analog3.8.2 (>= 3.8.2.0)"
+-> not satisfied
+- dependency "libgnuradio-blocks3.8.2 (>= 3.8.2.0)"
+-> not satisfied
+- dependency "libgnuradio-filter3.8.2 (>= 3.8.2.0)"
+-> not satisfied
+- dependency "libgnuradio-pmt3.8.2 (>= 3.8.2.0)"
+-> not satisfied
+- dependency "libgnuradio-runtime3.8.2 (>= 3.8.2.0)"
+-> not satisfied
+- dependency "liblog4cpp5v5 (>= 1.1.3)"
+-> not satisfied
+- dependency "libstdc++6 (>= 11)"
++ libstdc++6 satisfied by installed version 11.2.0-13
+Package libunac1:
+- dependency "libc6 (>= 2.4)"
++ libc6 satisfied by installed version 2.33-1
+Package whitedune:
+- dependency "libc6 (>= 2.27)"
++ libc6 satisfied by installed version 2.33-1
+- dependency "libexpat1 (>= 2.0.1)"
++ libexpat1 satisfied by installed version 2.4.2-1
+- dependency "libgcc1 (>= 1:3.0)"
+-> not satisfied
+- dependency "libgl1"
++ libgl1 satisfied by installed version 1.4.0-1
+- dependency "libglu1-mesa | libglu1"
++ libglu1-mesa satisfied by installed version 9.0.1-1
+- dependency "libjpeg62-turbo (>= 1.3.1)"
++ libjpeg62-turbo satisfied by installed version 1:2.1.2-1
+- dependency "libpng16-16 (>= 1.6.2-1)"
++ libpng16-16 satisfied by installed version 1.6.37-3
+- dependency "libstdc++6 (>= 5)"
++ libstdc++6 satisfied by installed version 11.2.0-13
+- dependency "libx11-6"
++ libx11-6 satisfied by installed version 2:1.7.2-2+b1
+- dependency "libxi6"
++ libxi6 satisfied by installed version 2:1.8-1
+- dependency "libxm4 (>= 2.3.4)"
+-> not satisfied
+- dependency "libxmu6"
++ libxmu6 satisfied by installed version 2:1.1.2-2+b3
+- dependency "libxt6"
++ libxt6 satisfied by installed version 1:1.2.0-1
+- dependency "zlib1g (>= 1:1.1.4)"
++ zlib1g satisfied by installed version 1:1.2.11.dfsg-2
+Package python-bottle-doc:
+- dependency "libjs-sphinxdoc (>= 2.4.3-5~)"
++ libjs-sphinxdoc satisfied by installed version 4.3.2-1
+- dependency "libjs-jquery"
++ libjs-jquery satisfied by installed version 3.5.1+dfsg+~3.5.5-8
+- dependency "libjs-underscore"
++ libjs-underscore satisfied by installed version 1.9.1~dfsg-4
+Package libcupt4-doc:
+Package fonts-orya:
+- dependency "fonts-lohit-orya"
+-> not satisfied
+- dependency "fonts-orya-extra"
+-> not satisfied
+Package libkf5akonadiwidgets5-21.08:
+Package liblocale-currency-format-perl:
+- dependency "perl"
++ perl satisfied by installed version 5.32.1-6
+Package libx2go-server-perl:
+- dependency "libcapture-tiny-perl"
++ libcapture-tiny-perl satisfied by installed version 0.48-1
+- dependency "libconfig-simple-perl"
+-> not satisfied
+- dependency "libx2go-log-perl (<< 4.1.0.3-5.1~)"
+-> not satisfied
+- dependency "libx2go-log-perl (>= 4.1.0.3-5)"
+-> not satisfied
+- dependency "libx2go-server-db-perl (<< 4.1.0.3-5.1~)"
+-> not satisfied
+- dependency "libx2go-server-db-perl (>= 4.1.0.3-5)"
+-> not satisfied
+- dependency "libx2go-utils-perl (<< 4.1.0.3-5.1~)"
+-> not satisfied
+- dependency "libx2go-utils-perl (>= 4.1.0.3-5)"
+-> not satisfied
+- dependency "x2goserver-common (<< 4.1.0.3-5.1~)"
+-> not satisfied
+- dependency "x2goserver-common (>= 4.1.0.3-5)"
+-> not satisfied
+- dependency "perl"
++ perl satisfied by installed version 5.32.1-6
+Package pwman3:
+- dependency "debconf (>= 0.5) | debconf-2.0"
++ debconf satisfied by installed version 1.5.79
+- dependency "python3-colorama (>= 0.2.4)"
+-> not satisfied
+- dependency "python3-cryptography"
++ python3-cryptography satisfied by installed version 3.4.8-1
+- dependency "python3"
++ python3 satisfied by installed version 3.9.8-1
+- dependency "python3-pkg-resources"
++ python3-pkg-resources satisfied by installed version 59.6.0-1
+- dependency "python3-pycryptodome"
++ python3-pycryptodome satisfied by installed version 3.11.0+dfsg1-3
+Package libapache2-mod-python-doc:
+Package libdist-inkt-role-test-kwalitee-perl:
+- dependency "libapp-cpants-lint-perl"
+-> not satisfied
+- dependency "libdist-inkt-role-test-perl"
+-> not satisfied
+- dependency "libmoose-perl"
+-> not satisfied
+- dependency "libtype-tiny-perl"
++ libtype-tiny-perl satisfied by installed version 1.012004-1
+- dependency "libnamespace-autoclean-perl"
+-> not satisfied
+- dependency "perl"
++ perl satisfied by installed version 5.32.1-6
+Package librust-atlatl-0.1+default-dev:
+Package php-symfony-polyfill-intl-idn:
+- dependency "php-common"
+-> not satisfied
+- dependency "php-symfony-polyfill-intl-normalizer (>= 1.10)"
+-> not satisfied
+- dependency "php-symfony-polyfill-intl-normalizer (<< 2~~)"
+-> not satisfied
+- dependency "php-symfony-polyfill-php72 (>= 1.10)"
+-> not satisfied
+- dependency "php-symfony-polyfill-php72 (<< 2~~)"
+-> not satisfied
+Package librust-libsqlite3-sys+buildtime-bindgen-dev:
+- dependency "librust-libsqlite3-sys-dev (= 0.15.0-2)"
+-> not satisfied
+- dependency "librust-bindgen-0.50+default-dev"
+-> not satisfied
+- dependency "librust-pkg-config-0.3+default-dev"
+-> not satisfied
+- dependency "librust-vcpkg-0.2+default-dev"
+-> not satisfied
+Package python3-sphinx-panels:
+- dependency "python3-docutils"
+-> not satisfied
+- dependency "python3-sphinx"
+-> not satisfied
+- dependency "python3"
++ python3 satisfied by installed version 3.9.8-1
+Package libosmocoding-doc:
+- dependency "libosmocoding0"
+-> not satisfied
+- dependency "libjs-jquery"
++ libjs-jquery satisfied by installed version 3.5.1+dfsg+~3.5.5-8
+Package otpw-bin:
+- dependency "libc6 (>= 2.14)"
++ libc6 satisfied by installed version 2.33-1
+Package qtfeedback5-dev:
+- dependency "libqt5feedback5 (= 5.0~git20180903.a14bd0b-2)"
+-> not satisfied
+- dependency "qtbase5-dev"
++ qtbase5-dev satisfied by installed version 5.15.2+dfsg-14
+Package libghc-old-locale-dev-1.0.0.7-05a9f:
+Package cvs-mailcommit:
+- dependency "default-mta | mail-transport-agent"
+-> not satisfied
+- dependency "rcs"
+-> not satisfied
+Package joe-jupp:
+- dependency "jupp (>= 3.1.37)"
+-> not satisfied
+Package libgwengui-fox16-79:
+- dependency "libc6 (>= 2.4)"
++ libc6 satisfied by installed version 2.33-1
+- dependency "libfox-1.6-0"
+-> not satisfied
+- dependency "libgcc-s1 (>= 3.0)"
++ libgcc-s1 satisfied by installed version 11.2.0-13
+- dependency "libgwenhywfar79 (>= 5.8.0)"
+-> not satisfied
+- dependency "libstdc++6 (>= 5)"
++ libstdc++6 satisfied by installed version 11.2.0-13
+Package gobjc-10-powerpc64le-linux-gnu:
+- dependency "gcc-10-powerpc64le-linux-gnu-base (= 10.3.0-8cross1)"
+-> not satisfied
+- dependency "gcc-10-powerpc64le-linux-gnu (= 10.3.0-8cross1)"
+-> not satisfied
+- dependency "libc6-dev-ppc64el-cross (>= 2.30-1~)"
+-> not satisfied
+- dependency "libc6 (>= 2.14)"
++ libc6 satisfied by installed version 2.33-1
+- dependency "libgmp10 (>= 2:5.0.1~)"
++ libgmp10 satisfied by installed version 2:6.2.1+dfsg-3
+- dependency "libisl23 (>= 0.15)"
++ libisl23 satisfied by installed version 0.24-2
+- dependency "libmpc3 (>= 1.1.0)"
++ libmpc3 satisfied by installed version 1.2.1-1
+- dependency "libmpfr6 (>= 3.1.3)"
++ libmpfr6 satisfied by installed version 4.1.0-3
+- dependency "libzstd1 (>= 1.4.0)"
++ libzstd1 satisfied by installed version 1.4.8+dfsg-3
+- dependency "zlib1g (>= 1:1.1.4)"
++ zlib1g satisfied by installed version 1:1.2.11.dfsg-2
+- dependency "libobjc-10-dev-ppc64el-cross (>= 10)"
+-> not satisfied
+Package golang-github-juju-httpprof-dev:
+Package gobjc-9-aarch64-linux-gnu:
+- dependency "gcc-9-aarch64-linux-gnu-base (= 9.4.0-1cross1)"
+-> not satisfied
+- dependency "gcc-9-aarch64-linux-gnu (= 9.4.0-1cross1)"
+-> not satisfied
+- dependency "libc6-dev-arm64-cross (>= 2.13-5)"
+-> not satisfied
+- dependency "libc6 (>= 2.14)"
++ libc6 satisfied by installed version 2.33-1
+- dependency "libgmp10 (>= 2:5.0.1~)"
++ libgmp10 satisfied by installed version 2:6.2.1+dfsg-3
+- dependency "libisl23 (>= 0.15)"
++ libisl23 satisfied by installed version 0.24-2
+- dependency "libmpc3 (>= 1.1.0)"
++ libmpc3 satisfied by installed version 1.2.1-1
+- dependency "libmpfr6 (>= 3.1.3)"
++ libmpfr6 satisfied by installed version 4.1.0-3
+- dependency "zlib1g (>= 1:1.1.4)"
++ zlib1g satisfied by installed version 1:1.2.11.dfsg-2
+- dependency "libobjc-9-dev-arm64-cross (>= 8)"
+-> not satisfied
+Package libkdsoap-bin:
+- dependency "libc6 (>= 2.14)"
++ libc6 satisfied by installed version 2.33-1
+- dependency "libgcc-s1 (>= 3.0)"
++ libgcc-s1 satisfied by installed version 11.2.0-13
+- dependency "libqt5core5a (>= 5.15.1)"
++ libqt5core5a satisfied by installed version 5.15.2+dfsg-14
+- dependency "libqt5network5 (>= 5.11.0~)"
++ libqt5network5 satisfied by installed version 5.15.2+dfsg-14
+- dependency "libqt5xml5 (>= 5.11.0~)"
++ libqt5xml5 satisfied by installed version 5.15.2+dfsg-14
+- dependency "libstdc++6 (>= 4.1.1)"
++ libstdc++6 satisfied by installed version 11.2.0-13
+Package abcl:
+- dependency "default-jre"
++ default-jre satisfied by installed version 2:1.11-72
+Package kmahjongg:
+- dependency "kdegames-mahjongg-data-kf5"
+-> not satisfied
+- dependency "libc6 (>= 2.14)"
++ libc6 satisfied by installed version 2.33-1
+- dependency "libkf5completion5 (>= 4.97.0)"
++ libkf5completion5 satisfied by installed version 5.88.0-1
+- dependency "libkf5configcore5 (>= 5.83.0~)"
++ libkf5configcore5 satisfied by installed version 5.88.0-1
+- dependency "libkf5configgui5 (>= 5.83.0~)"
++ libkf5configgui5 satisfied by installed version 5.88.0-1
+- dependency "libkf5configwidgets5 (>= 5.23.0)"
++ libkf5configwidgets5 satisfied by installed version 5.88.0-1
+- dependency "libkf5coreaddons5 (>= 5.83.0~)"
++ libkf5coreaddons5 satisfied by installed version 5.88.0-1
+- dependency "libkf5crash5 (>= 5.83.0~)"
++ libkf5crash5 satisfied by installed version 5.88.0-1
+- dependency "libkf5dbusaddons5 (>= 5.83.0~)"
++ libkf5dbusaddons5 satisfied by installed version 5.88.0-1
+- dependency "libkf5i18n5 (>= 4.97.0)"
++ libkf5i18n5 satisfied by installed version 5.88.0-2
+- dependency "libkf5kdegames7 (>= 4:21.04.0)"
+-> not satisfied
+- dependency "libkf5kmahjongglib5 (>= 4:21.04.0~)"
+-> not satisfied
+- dependency "libkf5widgetsaddons5 (>= 4.96.0)"
++ libkf5widgetsaddons5 satisfied by installed version 5.88.0-2
+- dependency "libkf5xmlgui5 (>= 5.83.0~)"
++ libkf5xmlgui5 satisfied by installed version 5.88.0-1
+- dependency "libqt5core5a (>= 5.15.1)"
++ libqt5core5a satisfied by installed version 5.15.2+dfsg-14
+- dependency "libqt5gui5 (>= 5.15.0~) | libqt5gui5-gles (>= 5.15.0~)"
++ libqt5gui5 satisfied by installed version 5.15.2+dfsg-14
+- dependency "libqt5widgets5 (>= 5.15.0~)"
++ libqt5widgets5 satisfied by installed version 5.15.2+dfsg-14
+- dependency "libstdc++6 (>= 4.1.1)"
++ libstdc++6 satisfied by installed version 11.2.0-13
+Package skkdic:
+Package libtime-human-perl:
+- dependency "perl"
++ perl satisfied by installed version 5.32.1-6
+Package faumachine-data:
+Package debconf-i18n:
+- dependency "debconf (= 1.5.79)"
++ debconf satisfied by installed version 1.5.79
+- dependency "liblocale-gettext-perl"
++ liblocale-gettext-perl satisfied by installed version 1.07-4+b1
+- dependency "libtext-iconv-perl"
++ libtext-iconv-perl satisfied by installed version 1.7-7+b1
+- dependency "libtext-wrapi18n-perl"
++ libtext-wrapi18n-perl satisfied by installed version 0.06-9
+- dependency "libtext-charwidth-perl"
++ libtext-charwidth-perl satisfied by installed version 0.04-10+b1
+Package libjs-jquery-mobile:
+- dependency "libjs-jquery (>= 1.8)"
++ libjs-jquery satisfied by installed version 3.5.1+dfsg+~3.5.5-8
+Package mirrormagic-data:
+Package libghc-hxt-http-doc:
+- dependency "haddock-interface-35"
+-> not satisfied
+Package gccgo-10-mips64el-linux-gnuabi64:
+- dependency "gcc-10-mips64el-linux-gnuabi64-base (= 10.2.1-6cross1)"
+-> not satisfied
+- dependency "gcc-10-mips64el-linux-gnuabi64 (= 10.2.1-6cross1)"
+-> not satisfied
+- dependency "libgo-10-dev-mips64el-cross (>= 10)"
+-> not satisfied
+- dependency "libc6-dev-mips64el-cross (>= 2.30-1~)"
+-> not satisfied
+- dependency "libc6 (>= 2.14)"
++ libc6 satisfied by installed version 2.33-1
+- dependency "libgmp10 (>= 2:5.0.1~)"
++ libgmp10 satisfied by installed version 2:6.2.1+dfsg-3
+- dependency "libisl23 (>= 0.15)"
++ libisl23 satisfied by installed version 0.24-2
+- dependency "libmpc3 (>= 1.1.0)"
++ libmpc3 satisfied by installed version 1.2.1-1
+- dependency "libmpfr6 (>= 3.1.3)"
++ libmpfr6 satisfied by installed version 4.1.0-3
+- dependency "zlib1g (>= 1:1.1.4)"
++ zlib1g satisfied by installed version 1:1.2.11.dfsg-2
+Package octocatalog-diff:
+- dependency "ruby | ruby-interpreter"
++ ruby satisfied by installed version 1:2.7.6
+- dependency "ruby-diffy"
+-> not satisfied
+- dependency "ruby-hashdiff"
+-> not satisfied
+- dependency "ruby-httparty (>= 0.11.0)"
+-> not satisfied
+- dependency "ruby-parallel"
+-> not satisfied
+- dependency "ruby-rugged"
+-> not satisfied
+Package soundkonverter:
+- dependency "kio"
++ kio satisfied by installed version 5.88.0-1
+- dependency "libc6 (>= 2.14)"
++ libc6 satisfied by installed version 2.33-1
+- dependency "libcdparanoia0 (>= 3.10.2+debian)"
++ libcdparanoia0 satisfied by installed version 3.10.2+debian-14
+- dependency "libkf5cddb5 (>= 4:17.08.3)"
+-> not satisfied
+- dependency "libkf5completion5 (>= 4.97.0)"
++ libkf5completion5 satisfied by installed version 5.88.0-1
+- dependency "libkf5configcore5 (>= 4.97.0)"
++ libkf5configcore5 satisfied by installed version 5.88.0-1
+- dependency "libkf5configwidgets5 (>= 4.96.0)"
++ libkf5configwidgets5 satisfied by installed version 5.88.0-1
+- dependency "libkf5coreaddons5 (>= 4.99.0)"
++ libkf5coreaddons5 satisfied by installed version 5.88.0-1
+- dependency "libkf5i18n5 (>= 4.97.0)"
++ libkf5i18n5 satisfied by installed version 5.88.0-2
+- dependency "libkf5kdelibs4support5 (>= 5.13.0)"
+-> not satisfied
+- dependency "libkf5kiocore5 (>= 5.69.0)"
++ libkf5kiocore5 satisfied by installed version 5.88.0-1
+- dependency "libkf5kiowidgets5 (>= 5.69.0)"
++ libkf5kiowidgets5 satisfied by installed version 5.88.0-1
+- dependency "libkf5notifications5 (>= 4.96.0)"
++ libkf5notifications5 satisfied by installed version 5.88.0-2
+- dependency "libkf5service-bin"
++ libkf5service-bin satisfied by installed version 5.88.0-1
+- dependency "libkf5service5 (>= 4.99.0)"
++ libkf5service5 satisfied by installed version 5.88.0-1
+- dependency "libkf5solid5 (>= 4.97.0)"
++ libkf5solid5 satisfied by installed version 5.88.0-1
+- dependency "libkf5textwidgets5 (>= 4.96.0)"
++ libkf5textwidgets5 satisfied by installed version 5.88.0-1
+- dependency "libkf5widgetsaddons5 (>= 5.1.0)"
++ libkf5widgetsaddons5 satisfied by installed version 5.88.0-2
+- dependency "libkf5xmlgui5 (>= 4.98.0)"
++ libkf5xmlgui5 satisfied by installed version 5.88.0-1
+- dependency "libphonon4qt5-4 (>= 4:4.8.0)"
++ libphonon4qt5-4 satisfied by installed version 4:4.11.1-4
+- dependency "libqt5core5a (>= 5.15.1)"
++ libqt5core5a satisfied by installed version 5.15.2+dfsg-14
+- dependency "libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1)"
++ libqt5gui5 satisfied by installed version 5.15.2+dfsg-14
+- dependency "libqt5widgets5 (>= 5.14.1)"
++ libqt5widgets5 satisfied by installed version 5.15.2+dfsg-14
+- dependency "libqt5xml5 (>= 5.0.2)"
++ libqt5xml5 satisfied by installed version 5.15.2+dfsg-14
+- dependency "libstdc++6 (>= 4.6)"
++ libstdc++6 satisfied by installed version 11.2.0-13
+- dependency "libtag1v5 (>= 1.11)"
++ libtag1v5 satisfied by installed version 1.12-1
+- dependency "phonon4qt5"
++ phonon4qt5 satisfied by installed version 4:4.11.1-4
+Package libdist-inkt-perl:
+- dependency "libcpan-changes-perl"
+-> not satisfied
+- dependency "libdata-dump-perl"
++ libdata-dump-perl satisfied by installed version 1.25-1
+- dependency "libfile-chdir-perl"
++ libfile-chdir-perl satisfied by installed version 0.1008-1.1
+- dependency "liblist-moreutils-perl"
++ liblist-moreutils-perl satisfied by installed version 0.430-2
+- dependency "libmodule-cpanfile-perl"
+-> not satisfied
+- dependency "libmodule-runtime-perl"
++ libmodule-runtime-perl satisfied by installed version 0.016-1
+- dependency "libmodule-signature-perl"
+-> not satisfied
+- dependency "libmoose-perl"
+-> not satisfied
+- dependency "libnamespace-autoclean-perl"
+-> not satisfied
+- dependency "libpath-finddev-perl"
+-> not satisfied
+- dependency "libpath-iterator-rule-perl"
+-> not satisfied
+- dependency "libpath-tiny-perl"
++ libpath-tiny-perl satisfied by installed version 0.120-1
+- dependency "librdf-doap-lite-perl"
+-> not satisfied
+- dependency "libsoftware-license-perl"
+-> not satisfied
+- dependency "libtext-sprintfn-perl"
+-> not satisfied
+- dependency "libtype-tiny-perl"
++ libtype-tiny-perl satisfied by installed version 1.012004-1
+- dependency "libtypes-path-tiny-perl"
+-> not satisfied
+- dependency "perl (>= 5.28.0)"
++ perl satisfied by installed version 5.32.1-6
+- dependency "perl"
++ perl satisfied by installed version 5.32.1-6
+Package git-build-recipe:
+- dependency "python3-dateutil"
++ python3-dateutil satisfied by installed version 2.8.1-6
+- dependency "python3-debian"
++ python3-debian satisfied by installed version 0.1.42
+- dependency "python3"
++ python3 satisfied by installed version 3.9.8-1
+- dependency "git"
++ git satisfied by installed version 1:2.34.1-1
+Package librust-libslirp-sys-dev:
+- dependency "librust-pkg-config-0.3+default-dev (>= 0.3.2-~~)"
+-> not satisfied
+- dependency "libslirp-dev"
+-> not satisfied
+- dependency "libglib2.0-dev"
++ libglib2.0-dev satisfied by installed version 2.70.2-1
+Package node-rollup-plugin-buble:
+- dependency "node-buble (>= 0.19.8-3)"
+-> not satisfied
+- dependency "node-rollup-pluginutils (>= 3.0.0)"
+-> not satisfied
+Package libgrib2c0d:
+- dependency "libc6 (>= 2.29)"
++ libc6 satisfied by installed version 2.33-1
+- dependency "libopenjp2-7 (>= 2.0.0)"
++ libopenjp2-7 satisfied by installed version 2.4.0-3
+- dependency "libpng16-16 (>= 1.6.2-1)"
++ libpng16-16 satisfied by installed version 1.6.37-3
+Package libmir-core-dev:
+- dependency "libmir-core0 (= 1.0.2-1+b3)"
+-> not satisfied
+Package yubikey-personalization-gui:
+- dependency "libc6 (>= 2.14)"
++ libc6 satisfied by installed version 2.33-1
+- dependency "libgcc1 (>= 1:3.0)"
+-> not satisfied
+- dependency "libqt5core5a (>= 5.12.2)"
++ libqt5core5a satisfied by installed version 5.15.2+dfsg-14
+- dependency "libqt5gui5 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2)"
++ libqt5gui5 satisfied by installed version 5.15.2+dfsg-14
+- dependency "libqt5widgets5 (>= 5.0.2)"
++ libqt5widgets5 satisfied by installed version 5.15.2+dfsg-14
+- dependency "libstdc++6 (>= 5)"
++ libstdc++6 satisfied by installed version 11.2.0-13
+- dependency "libykpers-1-1 (>= 1.14.0)"
+-> not satisfied
+- dependency "libyubikey0 (>= 1.5)"
+-> not satisfied
+Package libhugs-unix-bundled:
+- dependency "libc6 (>= 2.33)"
++ libc6 satisfied by installed version 2.33-1
+- dependency "hugs (= 98.200609.21-6)"
+-> not satisfied
+- dependency "libhugs-base"
+-> not satisfied
+Package php-symfony-semaphore:
+- dependency "php-common"
+-> not satisfied
+- dependency "php-psr-log"
+-> not satisfied
+Package liblingua-stem-it-perl:
+- dependency "perl"
++ perl satisfied by installed version 5.32.1-6
+Package python-pankoclient-doc:
+- dependency "libjs-sphinxdoc (>= 2.4.3-5~)"
++ libjs-sphinxdoc satisfied by installed version 4.3.2-1
+Package liblttoolbox3-3.5-1:
+- dependency "libc6 (>= 2.14)"
++ libc6 satisfied by installed version 2.33-1
+- dependency "libgcc-s1 (>= 3.0)"
++ libgcc-s1 satisfied by installed version 11.2.0-13
+- dependency "libstdc++6 (>= 11)"
++ libstdc++6 satisfied by installed version 11.2.0-13
+- dependency "libxml2 (>= 2.7.4)"
++ libxml2 satisfied by installed version 2.9.12+dfsg-5+b1
+Package r-cran-dimred:
+- dependency "r-base-core (>= 4.1.2-1)"
+-> not satisfied
+- dependency "r-api-4.0"
+-> not satisfied
+- dependency "r-cran-drr"
+-> not satisfied
+- dependency "r-cran-magrittr"
+-> not satisfied
+Package libluksde-dev:
+- dependency "libluksde1 (= 20200205-1+b2)"
+-> not satisfied
+Package libqrencode4:
+- dependency "libc6 (>= 2.14)"
++ libc6 satisfied by installed version 2.33-1
+Package librust-polling-dev:
+- dependency "librust-cfg-if-1+default-dev"
+-> not satisfied
+- dependency "librust-libc-0.2+default-dev (>= 0.2.77-~~)"
+-> not satisfied
+- dependency "librust-log-0.4+default-dev (>= 0.4.11-~~)"
+-> not satisfied
+Package librust-wasm-bindgen+xxx-debug-only-print-generated-code-dev:
+- dependency "librust-wasm-bindgen-dev (= 0.2.78-1)"
+-> not satisfied
+- dependency "librust-wasm-bindgen-macro-0.2.78+xxx-debug-only-print-generated-code-dev"
+-> not satisfied
+Package libxmlsec1-doc:
+Package xteddy:
+- dependency "libc6 (>= 2.4)"
++ libc6 satisfied by installed version 2.33-1
+- dependency "libimlib2 (>= 1.4.5)"
++ libimlib2 satisfied by installed version 1.7.4-1
+- dependency "libx11-6"
++ libx11-6 satisfied by installed version 2:1.7.2-2+b1
+- dependency "libxext6"
++ libxext6 satisfied by installed version 2:1.3.4-1
+Package lldpd:
+- dependency "libbsd0 (>= 0.6.0)"
++ libbsd0 satisfied by installed version 0.11.3-1
+- dependency "libc6 (>= 2.14)"
++ libc6 satisfied by installed version 2.33-1
+- dependency "libcap2 (>= 1:2.10)"
++ libcap2 satisfied by installed version 1:2.44-1
+- dependency "libevent-2.1-7 (>= 2.1.8-stable)"
++ libevent-2.1-7 satisfied by installed version 2.1.12-stable-1
+- dependency "libreadline8 (>= 6.0)"
++ libreadline8 satisfied by installed version 8.1-2
+- dependency "libsnmp40 (>= 5.9.1+dfsg)"
++ libsnmp40 satisfied by installed version 5.9.1+dfsg-1
+- dependency "libxml2 (>= 2.7.4)"
++ libxml2 satisfied by installed version 2.9.12+dfsg-5+b1
+- dependency "adduser"
++ adduser satisfied by installed version 3.118
+- dependency "lsb-base"
++ lsb-base satisfied by installed version 11.1.0
+Package golang-github-ziutek-mymysql-dev:
+Package pcs-snmp:
+- dependency "pcs"
+-> not satisfied
+- dependency "python3"
++ python3 satisfied by installed version 3.9.8-1
+- dependency "python3-pyagentx"
+-> not satisfied
+- dependency "snmpd"
+-> not satisfied
+Package ruby-fast-blank:
+- dependency "ruby (>= 1:2.7~0) | ruby (>= 1:3.0~0)"
++ ruby satisfied by installed version 1:2.7.6
+- dependency "libc6 (>= 2.4)"
++ libc6 satisfied by installed version 2.33-1
+- dependency "libruby2.7 (>= 2.7.0~preview1) | libruby3.0 (>= 3.0.0~preview1)"
++ libruby2.7 satisfied by installed version 2.7.5-1
+- dependency "ruby (<< 1:3.1~)"
++ ruby satisfied by installed version 1:2.7.6
+Package libaacs-dev:
+- dependency "libaacs0 (= 0.11.0-2)"
++ libaacs0 satisfied by installed version 0.11.0-2
+Package task-albanian-desktop:
+- dependency "tasksel (= 3.68)"
++ tasksel satisfied by installed version 3.68
