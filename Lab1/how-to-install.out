@@ -1,0 +1,202 @@
+Packages available: 63846
+Packages installed: 3775
+Package ruby-oj:
+"ruby-oj" to install: ""
+Package g++-10-riscv64-linux-gnu:
+"g++-10-riscv64-linux-gnu" to install: "binutils-common, binutils-riscv64-linux-gnu, libc6-dev-riscv64-cross, libc6-riscv64-cross, linux-libc-dev-riscv64-cross, cpp-10-riscv64-linux-gnu, gcc-10-riscv64-linux-gnu-base, gcc-10-riscv64-linux-gnu, libstdc++-10-dev-riscv64-cross, gcc-10-cross-base-ports, libgcc-10-dev-riscv64-cross, libgcc-s1-riscv64-cross, libgomp1-riscv64-cross, libatomic1-riscv64-cross, libstdc++6-riscv64-cross, gcc-11-cross-base-ports"
+Package ntp:
+"ntp" to install: ""
+Package librust-goblin-2+mach64-dev:
+"librust-goblin-2+mach64-dev" to install: ""
+Package granule:
+"granule" to install: "libgtkmm-2.4-1v5, libassa-3.5-5v5"
+Package libbg2-doc:
+"libbg2-doc" to install: ""
+Package libdtkgui5-bin:
+"libdtkgui5-bin" to install: "libdtkcore5, libdtkgui5, libgsettings-qt1, libdtkcommon, lshw"
+Package librust-mime-dev:
+"librust-mime-dev" to install: ""
+Package libtrilinos-rythmos12:
+"libtrilinos-rythmos12" to install: "libopenmpi3, libhdf5-openmpi-103-1, libtrilinos-epetra12, libtrilinos-epetraext12, libtrilinos-kokkos12, libtrilinos-teuchos12, libtrilinos-triutils12, libtrilinos-thyra12, libtrilinos-rtop12"
+Package djvulibre-bin:
+"djvulibre-bin" to install: ""
+Package libmetkit-data:
+"libmetkit-data" to install: ""
+Package libspring-test-java:
+"libspring-test-java" to install: "libspring-core-java, libjaxb-api-java, libactivation-java"
+Package kgendesignerplugin-bin:
+"kgendesignerplugin-bin" to install: "libkf5configcore5, libkf5coreaddons5, kdesignerplugin-data"
+Package librust-gobject-sys-0.14+v2-54-dev:
+"librust-gobject-sys-0.14+v2-54-dev" to install: ""
+Package librime-data-sampheng:
+"librime-data-sampheng" to install: "librime-data, librime-data-luna-pinyin"
+Package fonts-khmeros:
+"fonts-khmeros" to install: ""
+Package libcairo-perl:
+"libcairo-perl" to install: ""
+Package python3-pyside2.qtquickwidgets:
+"python3-pyside2.qtquickwidgets" to install: "python3-pyside2.qtcore, python3-pyside2.qtgui, python3-pyside2.qtwidgets, libpyside2-py3-5.15, libshiboken2-py3-5.15, python3-pyside2.qtnetwork, python3-pyside2.qtqml, python3-pyside2.qtquick"
+Package librlog-dev:
+"librlog-dev" to install: "librlog5v5"
+Package embassy-domsearch:
+"embassy-domsearch" to install: "emboss-lib, libhpdf-2.3.0"
+Package libglobus-gram-job-manager-callout-error0:
+"libglobus-gram-job-manager-callout-error0" to install: "libglobus-common0"
+Package python3-botan:
+"python3-botan" to install: ""
+Package libmaven3-core-java:
+"libmaven3-core-java" to install: ""
+Package btrfsmaintenance:
+"btrfsmaintenance" to install: ""
+Package crystal-doc:
+"crystal-doc" to install: ""
+Package libmodule-build-tiny-perl:
+"libmodule-build-tiny-perl" to install: "libextutils-config-perl, libextutils-helpers-perl, libextutils-installpaths-perl"
+Package r-cran-ecodist:
+"r-cran-ecodist" to install: "r-base-core"
+Package libghc-inspection-testing-doc:
+"libghc-inspection-testing-doc" to install: ""
+Package libopencv-core3.2:
+"libopencv-core3.2" to install: ""
+Package libghc-th-desugar-prof-1.10-1d7f8:
+"libghc-th-desugar-prof-1.10-1d7f8" to install: ""
+Package fst-dev:
+"fst-dev" to install: ""
+Package freeipa-healthcheck:
+"freeipa-healthcheck" to install: "python3-ipahealthcheck-core"
+Package python3-hiera:
+"python3-hiera" to install: "python3-simplejson, ruby-json, hiera, ruby-deep-merge"
+Package python3-plyara:
+"python3-plyara" to install: "python3-ply"
+Package gobjc-s390x-linux-gnu:
+"gobjc-s390x-linux-gnu" to install: "binutils-common, binutils-s390x-linux-gnu, gcc-s390x-linux-gnu, libc6-dev-s390x-cross, libc6-s390x-cross, linux-libc-dev-s390x-cross, libgcc-s1-s390x-cross, libgomp1-s390x-cross, libitm1-s390x-cross, libatomic1-s390x-cross, libasan6-s390x-cross, libubsan1-s390x-cross, libobjc4-s390x-cross, libstdc++6-s390x-cross, cpp-11-s390x-linux-gnu, gcc-11-s390x-linux-gnu-base, gcc-11-s390x-linux-gnu, gcc-11-cross-base, libgcc-11-dev-s390x-cross, gobjc-11-s390x-linux-gnu, libobjc-11-dev-s390x-cross, cpp-s390x-linux-gnu"
+Package libtemplate-multilingual-perl:
+"libtemplate-multilingual-perl" to install: "libappconfig-perl, libtemplate-perl"
+Package libgnuradio-channels3.8.2:
+"libgnuradio-channels3.8.2" to install: "libboost-program-options1.74.0, liblog4cpp5v5, libvolk2.5, libgnuradio-analog3.8.2, libgnuradio-blocks3.8.2, libgnuradio-fft3.8.2, libgnuradio-pmt3.8.2, libgnuradio-runtime3.8.2, libgnuradio-filter3.8.2, libthrift-0.13.0"
+Package libunac1:
+"libunac1" to install: ""
+Package whitedune:
+"whitedune" to install: "libxm4, libmotif-common"
+Package python-bottle-doc:
+"python-bottle-doc" to install: ""
+Package libcupt4-doc:
+"libcupt4-doc" to install: ""
+Package fonts-orya:
+"fonts-orya" to install: "fonts-lohit-orya, fonts-orya-extra"
+Package libkf5akonadiwidgets5-21.08:
+"libkf5akonadiwidgets5-21.08" to install: ""
+Package liblocale-currency-format-perl:
+"liblocale-currency-format-perl" to install: ""
+Package libx2go-server-perl:
+"libx2go-server-perl" to install: "libdbd-sqlite3-perl, libdbi-perl, libdbd-pg-perl, libversion-perl, libconfig-simple-perl, libx2go-config-perl, x2goserver-common, libx2go-log-perl, libx2go-server-db-perl, libx2go-utils-perl"
+Package pwman3:
+"pwman3" to install: "python3-colorama"
+Package libapache2-mod-python-doc:
+"libapache2-mod-python-doc" to install: ""
+Package libdist-inkt-role-test-kwalitee-perl:
+"libdist-inkt-role-test-kwalitee-perl" to install: "libmodule-pluggable-perl, libclass-accessor-perl, libparse-recdescent-perl, libmoose-perl, libnamespace-autoclean-perl, libmodule-cpanfile-perl, libscalar-list-utils-perl, libcpan-distnameinfo-perl, libcpan-meta-requirements-perl, libcpan-meta-yaml-perl, libtext-template-perl, libsoftware-license-perl, libalgorithm-c3-perl, libdevel-globaldestruction-perl, libclass-load-perl, libapp-cpants-lint-perl, libmodule-cpants-analyse-perl, libarchive-any-lite-perl, libarray-diff-perl, libmro-compat-perl, libclass-c3-perl, libpath-iterator-rule-perl, libclass-load-xs-perl, libmodule-corelist-perl, libdata-binary-perl, libdata-section-perl, libdevel-overloadinfo-perl, libdist-checkconflicts-perl, libdist-inkt-role-test-perl, libeval-closure-perl, libfile-find-object-perl, libfile-treecreate-perl, libmodule-extractuse-perl, libperl-prereqscanner-notquitelite-perl, libpod-strip-perl, libmodule-runtime-conflicts-perl, libpackage-deprecationmanager-perl, libregexp-trie-perl, liburi-cpan-perl"
+Package librust-atlatl-0.1+default-dev:
+"librust-atlatl-0.1+default-dev" to install: ""
+Package php-symfony-polyfill-intl-idn:
+"php-symfony-polyfill-intl-idn" to install: "php-common, php-symfony-polyfill-php72, php-symfony-polyfill-intl-normalizer"
+Package librust-libsqlite3-sys+buildtime-bindgen-dev:
+"librust-libsqlite3-sys+buildtime-bindgen-dev" to install: "librust-libsqlite3-sys-dev"
+Package python3-sphinx-panels:
+"python3-sphinx-panels" to install: "python3-jinja2, python3-alabaster, python3-docutils, python3-babel, python3-sphinx, sphinx-common, python3-snowballstemmer, python-babel-localedata, docutils-common, python3-roman, python3-imagesize"
+Package libosmocoding-doc:
+"libosmocoding-doc" to install: "libsctp1, libosmocoding0, libosmocore16, libosmogsm15, libosmocodec0"
+Package otpw-bin:
+"otpw-bin" to install: ""
+Package qtfeedback5-dev:
+"qtfeedback5-dev" to install: "libqt5feedback5"
+Package libghc-old-locale-dev-1.0.0.7-05a9f:
+"libghc-old-locale-dev-1.0.0.7-05a9f" to install: ""
+Package cvs-mailcommit:
+"cvs-mailcommit" to install: "rcs"
+Package joe-jupp:
+"joe-jupp" to install: "libselinux1, jupp"
+Package libgwengui-fox16-79:
+"libgwengui-fox16-79" to install: "libfox-1.6-0, libgwenhywfar79, libgwenhywfar-data"
+Package gobjc-10-powerpc64le-linux-gnu:
+"gobjc-10-powerpc64le-linux-gnu" to install: "binutils-common, binutils-powerpc64le-linux-gnu, libc6-dev-ppc64el-cross, libc6-ppc64el-cross, linux-libc-dev-ppc64el-cross, cpp-10-powerpc64le-linux-gnu, gcc-10-powerpc64le-linux-gnu-base, gcc-10-powerpc64le-linux-gnu, gcc-10-cross-base, libgcc-10-dev-ppc64el-cross, libobjc-10-dev-ppc64el-cross, libgcc-s1-ppc64el-cross, libgomp1-ppc64el-cross, libitm1-ppc64el-cross, libatomic1-ppc64el-cross, libasan6-ppc64el-cross, liblsan0-ppc64el-cross, libtsan0-ppc64el-cross, libubsan1-ppc64el-cross, libquadmath0-ppc64el-cross, libobjc4-ppc64el-cross, libstdc++6-ppc64el-cross, gcc-11-cross-base"
+Package golang-github-juju-httpprof-dev:
+"golang-github-juju-httpprof-dev" to install: ""
+Package gobjc-9-aarch64-linux-gnu:
+"gobjc-9-aarch64-linux-gnu" to install: "binutils-common, binutils-aarch64-linux-gnu, libc6-arm64-cross, libc6-dev-arm64-cross, linux-libc-dev-arm64-cross, libgcc-s1-arm64-cross, libgomp1-arm64-cross, libitm1-arm64-cross, libatomic1-arm64-cross, liblsan0-arm64-cross, libtsan0-arm64-cross, libubsan1-arm64-cross, libobjc4-arm64-cross, libstdc++6-arm64-cross, gcc-11-cross-base, cpp-9-aarch64-linux-gnu, gcc-9-aarch64-linux-gnu-base, gcc-9-aarch64-linux-gnu, libgcc-9-dev-arm64-cross, gcc-9-cross-base, libobjc-9-dev-arm64-cross, libasan5-arm64-cross"
+Package libkdsoap-bin:
+"libkdsoap-bin" to install: ""
+Package abcl:
+"abcl" to install: ""
+Package kmahjongg:
+"kmahjongg" to install: "libkf5kdegames7, kdegames-mahjongg-data-kf5, libkf5kmahjongglib5"
+Package skkdic:
+"skkdic" to install: ""
+Package libtime-human-perl:
+"libtime-human-perl" to install: ""
+Package faumachine-data:
+"faumachine-data" to install: ""
+Package debconf-i18n:
+"debconf-i18n" to install: ""
+Package libjs-jquery-mobile:
+"libjs-jquery-mobile" to install: ""
+Package mirrormagic-data:
+"mirrormagic-data" to install: ""
+Package libghc-hxt-http-doc:
+"libghc-hxt-http-doc" to install: ""
+Package gccgo-10-mips64el-linux-gnuabi64:
+"gccgo-10-mips64el-linux-gnuabi64" to install: "binutils-mips64el-linux-gnuabi64, libc6-dev-mips64el-cross, libc6-mips64el-cross, linux-libc-dev-mips64el-cross, cpp-10-mips64el-linux-gnuabi64, gcc-10-mips64el-linux-gnuabi64-base, gcc-10-mips64el-linux-gnuabi64, gcc-10-cross-base-mipsen, libgcc-10-dev-mips64el-cross, libgo-10-dev-mips64el-cross, libatomic1-mips64el-cross, libgcc-s1-mips64el-cross, libgomp1-mips64el-cross, libgo16-mips64el-cross, gcc-11-cross-base-mipsen"
+Package octocatalog-diff:
+"octocatalog-diff" to install: "ruby-multi-json, ruby-rugged, ruby-parallel, ruby-diffy, ruby-hashdiff, ruby-httparty, ruby-progressbar, ruby-multi-xml"
+Package soundkonverter:
+"soundkonverter" to install: "libqt5x11extras5, libkf5configcore5, libkf5crash5, libkf5i18n5, libkf5configgui5, libkf5iconthemes5, libkf5configwidgets5, libkf5widgetsaddons5, libkf5windowsystem5, libkf5xmlgui5, libkf5kiocore5, libkf5completion5, libkf5textwidgets5, libkf5kiowidgets5, libkf5notifications5, libkf5parts5, libkf5service5, libqt5svg5, libkf5kiofilewidgets5, libkf5cddb5, libkf5globalaccel5, libkf5guiaddons5, libkf5kdelibs4support5, libmusicbrainz5cc2v5, libkf5kdelibs4support-data"
+Package libdist-inkt-perl:
+"libdist-inkt-perl" to install: "libmoose-perl, libnamespace-autoclean-perl, libtypes-path-tiny-perl, libclass-tiny-perl, libmodule-cpanfile-perl, libscalar-list-utils-perl, libtext-template-perl, libsoftware-license-perl, libalgorithm-c3-perl, libdevel-globaldestruction-perl, libclass-load-perl, libmro-compat-perl, libclass-c3-perl, libpath-iterator-rule-perl, libclass-load-xs-perl, libcpan-changes-perl, libdata-section-perl, libdevel-overloadinfo-perl, libdist-checkconflicts-perl, libmodule-signature-perl, libpath-finddev-perl, librdf-doap-lite-perl, libtext-sprintfn-perl, libeval-closure-perl, libpath-isdev-perl, libmodule-runtime-conflicts-perl, libpackage-deprecationmanager-perl"
+Package git-build-recipe:
+"git-build-recipe" to install: ""
+Package librust-libslirp-sys-dev:
+"librust-libslirp-sys-dev" to install: "libslirp-dev"
+Package node-rollup-plugin-buble:
+"node-rollup-plugin-buble" to install: "node-acorn, node-xtend, node-regenerate-unicode-properties, node-anymatch, node-normalize-path, node-jsesc, node-regexpu-core, node-braces, node-fill-range, node-buble, node-magic-string, node-estree-walker, node-to-regex-range, node-micromatch, node-vlq, node-is-number, node-sourcemap-codec, libjs-regenerate, node-regenerate, node-regjsgen, node-regjsparser, node-unicode-match-property-ecmascript, node-unicode-match-property-value-ecmascript, node-repeat-string, node-rollup-pluginutils, node-unicode-canonical-property-names-ecmascript, node-unicode-property-aliases-ecmascript"
+Package libgrib2c0d:
+"libgrib2c0d" to install: ""
+Package libmir-core-dev:
+"libmir-core-dev" to install: "libphobos2-ldc-shared98, libmir-core0"
+Package yubikey-personalization-gui:
+"yubikey-personalization-gui" to install: "libyubikey0, libykpers-1-1"
+Package libhugs-unix-bundled:
+"libhugs-unix-bundled" to install: "hugs"
+Package php-symfony-semaphore:
+"php-symfony-semaphore" to install: "php-common, php-psr-log"
+Package liblingua-stem-it-perl:
+"liblingua-stem-it-perl" to install: ""
+Package python-pankoclient-doc:
+"python-pankoclient-doc" to install: ""
+Package liblttoolbox3-3.5-1:
+"liblttoolbox3-3.5-1" to install: ""
+Package r-cran-dimred:
+"r-cran-dimred" to install: "r-base-core, r-cran-lattice, r-cran-matrix, r-cran-kernlab, r-cran-magrittr, r-cran-cvst, r-cran-drr"
+Package libluksde-dev:
+"libluksde-dev" to install: "libbfio1, libluksde1"
+Package libqrencode4:
+"libqrencode4" to install: ""
+Package librust-polling-dev:
+"librust-polling-dev" to install: ""
+Package librust-wasm-bindgen+xxx-debug-only-print-generated-code-dev:
+"librust-wasm-bindgen+xxx-debug-only-print-generated-code-dev" to install: "librust-wasm-bindgen-dev"
+Package libxmlsec1-doc:
+"libxmlsec1-doc" to install: ""
+Package xteddy:
+"xteddy" to install: ""
+Package lldpd:
+"lldpd" to install: ""
+Package golang-github-ziutek-mymysql-dev:
+"golang-github-ziutek-mymysql-dev" to install: ""
+Package pcs-snmp:
+"pcs-snmp" to install: "python3-tornado, python3-openssl, ruby-rack, python3-dacite, ruby-sinatra, ruby-json, snmpd, ruby-daemons, pcs, ruby-backports, ruby-ethon, ruby-open4, ruby-webrick, thin, python3-pyagentx, ruby-eventmachine, ruby-ruby2-keywords, ruby-tilt, ruby-mustermann, ruby-rack-protection"
+Package ruby-fast-blank:
+"ruby-fast-blank" to install: ""
+Package libaacs-dev:
+"libaacs-dev" to install: ""
+Package task-albanian-desktop:
+"task-albanian-desktop" to install: ""
