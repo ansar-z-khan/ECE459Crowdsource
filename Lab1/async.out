@@ -100,186 +100,96 @@ queueing request ece459.patricklam.ca:4590/rest/v1/checksums/pcs-snmp/0.11.1-1
 queueing request ece459.patricklam.ca:4590/rest/v1/checksums/ruby-fast-blank/1.0.0-2%2Bb2
 queueing request ece459.patricklam.ca:4590/rest/v1/checksums/libaacs-dev/0.11.0-2
 queueing request ece459.patricklam.ca:4590/rest/v1/checksums/task-albanian-desktop/3.68
-got response 0f1fb28c5b12a0200a41c0cb420e2355 on request for package libmaven3-core-java version 3.6.3-5
-verifying libmaven3-core-java, matches: true
-got response 6e5f8866ed4fb6128893450693dfdb42 on request for package libhugs-unix-bundled version 98.200609.21-6
-verifying libhugs-unix-bundled, matches: true
-got response 0c94514bf6ae1d00513d0166ad1a7dfd on request for package golang-github-juju-httpprof-dev version 0.0~git20141217.14bf14c-4
-verifying golang-github-juju-httpprof-dev, matches: true
-got response ad0bf47661d96a3c2eb71d566db2cb4b on request for package cvs-mailcommit version 1.19-6
-verifying cvs-mailcommit, matches: true
-got response a2126cb7988cbe577de11481de82be16 on request for package php-symfony-semaphore version 5.4.2+dfsg-1
-verifying php-symfony-semaphore, matches: true
-got response 937d0da5a32ef91671a45fc03ec122c8 on request for package gobjc-9-aarch64-linux-gnu version 9.4.0-1cross1
-verifying gobjc-9-aarch64-linux-gnu, matches: true
-got response 38f9a892c0a444f8208853a65922a34f on request for package libbg2-doc version 2.04+dfsg-2.1
-verifying libbg2-doc, matches: true
-got response 1ef0a89a43ecfccb16894988c8638ff6 on request for package mirrormagic-data version 3.0.0+dfsg2-2
-verifying mirrormagic-data, matches: true
-got response 6b36b9bd959a8e43e9c3533138aa3121 on request for package soundkonverter version 3.0.1-3
-verifying soundkonverter, matches: true
-got response c615c2da55f7aff65d36dd632eac8797 on request for package librime-data-sampheng version 0.38.20190120-1
-verifying librime-data-sampheng, matches: true
-got response 6043a428db9ef6fc40c21c32d8f23ed7 on request for package kgendesignerplugin-bin version 5.88.0-1
-verifying kgendesignerplugin-bin, matches: true
-got response 73f01a82737c087bdde6bce9587a7bd4 on request for package embassy-domsearch version 1:0.1.660-3
-verifying embassy-domsearch, matches: true
-got response 693e5c0bd0614266fe6f4782a1aefb34 on request for package granule version 1.4.0-7-10
-verifying granule, matches: true
-got response f9eb5ee2dabbb9e16c4e3128290053c0 on request for package python3-hiera version 0.0.1+20190629-2
-verifying python3-hiera, matches: true
-got response 4e6994a21a44ff3751eeb13ac16c68ea on request for package abcl version 1.8.0-2
-verifying abcl, matches: true
-got response 118073ceb2a74ca9b76813eba2ce1f18 on request for package faumachine-data version 20180503-4
-verifying faumachine-data, matches: true
-got error 404 on request for package librust-wasm-bindgen+xxx-debug-only-print-generated-code-dev version 0.2.78-1
-got response 50afdee53a4a71cb3d604faaf3f1b6b0 on request for package crystal-doc version 1.2.2+dfsg-1
-verifying crystal-doc, matches: true
-got response 00b13e8fe0a94904e340511c3c3b78c1 on request for package liblocale-currency-format-perl version 1.35-1
-verifying liblocale-currency-format-perl, matches: true
-got response 7e019ca0d4d74419b4176c44773146cc on request for package golang-github-ziutek-mymysql-dev version 1.5.4+git20170206.23.0582bcf-2
-verifying golang-github-ziutek-mymysql-dev, matches: true
-got response 6436c0f0461c661beead63b0f041633b on request for package librust-libslirp-sys-dev version 4.2.0-1
-verifying librust-libslirp-sys-dev, matches: true
-got response 11b16ce360613017acb2dabc1beaeafe on request for package fonts-orya version 2:1.3
-verifying fonts-orya, matches: true
-got response 05b907eb9f1067c55d62fe7df3281c91 on request for package python3-sphinx-panels version 0.6.0-2
-verifying python3-sphinx-panels, matches: true
-got response 0c0743d1309540d6d23e8d9bc9afd8cd on request for package libmetkit-data version 1.8.8-1
-verifying libmetkit-data, matches: true
-got response 8bb6a45894535d4d59bce100646a255d on request for package libglobus-gram-job-manager-callout-error0 version 4.2-1
-verifying libglobus-gram-job-manager-callout-error0, matches: true
-got response cdc366abffb8ffe27820904d0676fdbd on request for package libmir-core-dev version 1.0.2-1+b3
-verifying libmir-core-dev, matches: true
-got response 5014ef2ade2236fdf3d83b0d1e671caf on request for package libgwengui-fox16-79 version 5.8.1-1
-verifying libgwengui-fox16-79, matches: true
-got response 6ffcf97dd8df08465c64113c8b817012 on request for package libtime-human-perl version 1.03-4.1
-verifying libtime-human-perl, matches: true
-got response e08215b44c862b512ee1e056d4381436 on request for package freeipa-healthcheck version 0.9-1
-verifying freeipa-healthcheck, matches: true
-got response 01d5e9dc0a9f7532c33732bb88ae8abb on request for package libspring-test-java version 4.3.30-1
-verifying libspring-test-java, matches: true
-got response ccef26b82285bab53194758e6d4540c5 on request for package libcupt4-doc version 2.10.4+nmu1
-verifying libcupt4-doc, matches: true
-got response 593e326ef04345ce430819e4a26c4143 on request for package libosmocoding-doc version 1.4.2-3
-verifying libosmocoding-doc, matches: true
-got response 15c6b130c2f78f4d87a56b6d2bdbba8d on request for package djvulibre-bin version 3.5.28-2
-verifying djvulibre-bin, matches: true
-got response a0224367851312bc4a8f41bc197cf2ef on request for package libdist-inkt-role-test-kwalitee-perl version 0.002-1.1
-verifying libdist-inkt-role-test-kwalitee-perl, matches: true
-got response 6b048b94d44dd59da399952638f47755 on request for package gobjc-10-powerpc64le-linux-gnu version 10.3.0-8cross1
-verifying gobjc-10-powerpc64le-linux-gnu, matches: true
-got response 95e57dfd247dd53be23594a32d79e25d on request for package libgrib2c0d version 1.6.3-1
-verifying libgrib2c0d, matches: true
-got response 32f79422432dcf075e97ded28ea02d38 on request for package r-cran-dimred version 0.2.4-1
-verifying r-cran-dimred, matches: true
-got response 30fb1ed1d8b46b963c3750c70050a105 on request for package php-symfony-polyfill-intl-idn version 1.24.0-1
-verifying php-symfony-polyfill-intl-idn, matches: true
-got response 5874b52862d7da095195f1b9eb8cb080 on request for package task-albanian-desktop version 3.68
-verifying task-albanian-desktop, matches: true
-got response 37b8a59b3122ca60a28da1ba02d5a034 on request for package gobjc-s390x-linux-gnu version 4:11.2.0-2
-verifying gobjc-s390x-linux-gnu, matches: true
-got response dc6b1f6b592604d47f9e907e8732bbd7 on request for package pwman3 version 0.12.2-2
-verifying pwman3, matches: true
-got response 0353098af2e55922af96510c0400509a on request for package skkdic version 20210106-2
-verifying skkdic, matches: true
-got response 4e8f520ba535fcc217882772cfef5f7b on request for package gccgo-10-mips64el-linux-gnuabi64 version 10.2.1-6cross1
-verifying gccgo-10-mips64el-linux-gnuabi64, matches: true
-got response e351d19d983825fffd049f8b916e1007 on request for package otpw-bin version 1.5-2+b1
-verifying otpw-bin, matches: true
-got response 1929acc500d513dcbb115532e5238ea6 on request for package libmodule-build-tiny-perl version 0.039-1.1
-verifying libmodule-build-tiny-perl, matches: true
-got response 934d0474611e9c2b927ffb1a74352fbd on request for package libdist-inkt-perl version 0.026-1
-verifying libdist-inkt-perl, matches: true
-got response 5dc2de0fa20b973bbb498f0ec2cb855a on request for package libcairo-perl version 1.109-2
-verifying libcairo-perl, matches: true
-got response bc3d7432e2a7a6f556f91d96084bedf0 on request for package python3-plyara version 2.1.1-1
-verifying python3-plyara, matches: true
-got response be5c76d01aa96fd3a6cb6ca2472779bd on request for package pcs-snmp version 0.11.1-1
-verifying pcs-snmp, matches: true
-got response ea1e85dc15bb376f08b3ec139fee2905 on request for package kmahjongg version 4:21.08.3-1
-verifying kmahjongg, matches: true
-got response 35bb89f8083649bb7855928dd2721ad7 on request for package whitedune version 0.30.10-2.2
-verifying whitedune, matches: true
-got response c81b38d013d557ae7657d833496dbdd5 on request for package python-pankoclient-doc version 1.2.0-2
-verifying python-pankoclient-doc, matches: true
-got response 7bb2102da98229215b3c479dab0bbd40 on request for package liblttoolbox3-3.5-1 version 3.5.4-1
-verifying liblttoolbox3-3.5-1, matches: true
-got response bd2ef834d8a55e8a2184ec11c6e90f0b on request for package libx2go-server-perl version 4.1.0.3-5
-verifying libx2go-server-perl, matches: true
-got response c25c315af2985e208ac1765426e9d3c4 on request for package libjs-jquery-mobile version 1.4.5+dfsg-1
-verifying libjs-jquery-mobile, matches: true
-got error 404 on request for package librust-libsqlite3-sys+buildtime-bindgen-dev version 0.15.0-2
-got response eae7b518875e3460068c3172233b74ad on request for package python3-pyside2.qtquickwidgets version 5.15.2-2+b2
-verifying python3-pyside2.qtquickwidgets, matches: true
-got response 2bdc91fb4918f960210162eb2f423ee0 on request for package libghc-hxt-http-doc version 9.1.5.2-11
-verifying libghc-hxt-http-doc, matches: true
-got response bda580682a66ce350080ce33ba2503d3 on request for package node-rollup-plugin-buble version 0.21.3+repack+~0.19.8-2
-verifying node-rollup-plugin-buble, matches: true
-got response 793e6ca11a5359fb3bde6a229872e8c1 on request for package fonts-khmeros version 5.0-9
-verifying fonts-khmeros, matches: true
-got response 33fb19bcd6177b8b5558be7ec01b7e74 on request for package libkdsoap-bin version 1.9.1+dfsg-2
-verifying libkdsoap-bin, matches: true
-got response 93b48d8dfbc166fa8d1889777af50b9b on request for package libghc-inspection-testing-doc version 0.4.2.4-1
-verifying libghc-inspection-testing-doc, matches: true
-got response 3ebabfb8ab76d8a4a1c2687df9ecc351 on request for package r-cran-ecodist version 2.0.7-1
-verifying r-cran-ecodist, matches: true
-got response 0325e86ceded8c6d48c35f6037775f3b on request for package yubikey-personalization-gui version 3.1.24-1+b2
-verifying yubikey-personalization-gui, matches: true
-got response 4c3e484eb337879141ebbcfac0080b52 on request for package ruby-fast-blank version 1.0.0-2+b2
-verifying ruby-fast-blank, matches: true
-got response a2cb13007dce788ca2ad89f3f4dfa1f0 on request for package libaacs-dev version 0.11.0-2
-verifying libaacs-dev, matches: true
-got response 513770cbc2cce7be69f03ed167ad2ae4 on request for package libluksde-dev version 20200205-1+b2
-verifying libluksde-dev, matches: true
-got response cdd1a0535ae4b34073017e6f43127b7d on request for package libtrilinos-rythmos12 version 12.18.1-2+b1
-verifying libtrilinos-rythmos12, matches: true
-got response 36bc053d0416b3b6770cc46af02a9de1 on request for package python-bottle-doc version 0.12.19-1
-verifying python-bottle-doc, matches: true
-got response 5e233901b3fd7605bf518bbf21af62ea on request for package libqrencode4 version 4.1.1-1
-verifying libqrencode4, matches: true
-got response d7b9f8dc89d69cae5bc80e8abd551b1d on request for package btrfsmaintenance version 0.5-1
-verifying btrfsmaintenance, matches: true
-got response abe4754641b559ef996ee47393b86268 on request for package libdtkgui5-bin version 5.5.17.1-1
-verifying libdtkgui5-bin, matches: true
-got response 784a8bf5bed03b93bfc0a8594d4f15f7 on request for package libgnuradio-channels3.8.2 version 3.8.2.0-15+b1
-verifying libgnuradio-channels3.8.2, matches: true
-got response e794eb8d4fc2e8e7191639c3aa13b8de on request for package librust-polling-dev version 2.2.0-1+b1
-verifying librust-polling-dev, matches: true
-got response 3fac523eb5cfb043334b32f41328a9e1 on request for package libtemplate-multilingual-perl version 1.00-2.1
-verifying libtemplate-multilingual-perl, matches: true
-got response 477b4fe7427169deb052ec7f3dac01de on request for package qtfeedback5-dev version 5.0~git20180903.a14bd0b-2
-verifying qtfeedback5-dev, matches: true
-got response 968e156657d3d35f32691017848cd428 on request for package git-build-recipe version 0.3.6
-verifying git-build-recipe, matches: true
-got response 0feef260e9edfabeb0732e7fcfb00c1a on request for package ntp version 1:4.2.8p15+dfsg-1
-verifying ntp, matches: true
-got response 09f90d716fa5d1c4534ff74ebba6fbaa on request for package lldpd version 1.0.13-1
-verifying lldpd, matches: true
-got response fa5a23957bac61d875039a9bb4af57be on request for package fst-dev version 0.120.0-1
-verifying fst-dev, matches: true
-got response 69678e3e944b25098d3dc78266bd808f on request for package debconf-i18n version 1.5.79
-verifying debconf-i18n, matches: true
-got response 4ecdda6c15e965933f58c8a71913661c on request for package xteddy version 2.2-5
-verifying xteddy, matches: true
-got response ead6db09c87015dbb95af9a2722b9a1b on request for package joe-jupp version 3.1.40-1
-verifying joe-jupp, matches: true
-got error 404 on request for package g++-10-riscv64-linux-gnu version 10.3.0-8cross1
-got response e9c0741811919e92446df675cd3605c4 on request for package liblingua-stem-it-perl version 0.02-2
-verifying liblingua-stem-it-perl, matches: true
-got response e536c123ad76678085eee8b674f3a436 on request for package python3-botan version 2.18.2+dfsg-1
-verifying python3-botan, matches: true
-got response ec471b5ba4004a1e736853394021e2e1 on request for package octocatalog-diff version 1.5.4-2
-verifying octocatalog-diff, matches: true
-got response 955ed3ba9540844f5e570ec020caf6ce on request for package libunac1 version 1.8.0-10
-verifying libunac1, matches: true
-got response 612aa4a9d821104ddaf905a25e20922f on request for package libapache2-mod-python-doc version 3.5.0-1
-verifying libapache2-mod-python-doc, matches: true
-got response 979c42f44d4776837a68e3fc17e3b7bd on request for package libxmlsec1-doc version 1.2.33-1
-verifying libxmlsec1-doc, matches: true
-got response a377bb69619812f7808d4a5f7e048118 on request for package librlog-dev version 1.4-4.1
-verifying librlog-dev, matches: true
-got response b06d9299186d4c75c21442325b5b7986 on request for package librust-mime-dev version 0.3.9-1+b1
-verifying librust-mime-dev, matches: true
-got response c049b7d6881616b5954c73e5daeab9b5 on request for package ruby-oj version 3.13.9-1
 verifying ruby-oj, matches: true
+verifying libtrilinos-rythmos12, matches: true
+verifying crystal-doc, matches: true
+verifying libunac1, matches: true
+verifying librust-polling-dev, matches: true
+verifying pcs-snmp, matches: true
+verifying task-albanian-desktop, matches: true
+verifying libghc-inspection-testing-doc, matches: true
+verifying whitedune, matches: true
+verifying librlog-dev, matches: true
+got error 404 on request for package g++-10-riscv64-linux-gnu version 10.3.0-8cross1
+verifying librime-data-sampheng, matches: true
+verifying qtfeedback5-dev, matches: true
+verifying python-pankoclient-doc, matches: true
+verifying libmaven3-core-java, matches: true
+verifying libjs-jquery-mobile, matches: true
+verifying gobjc-9-aarch64-linux-gnu, matches: true
+verifying cvs-mailcommit, matches: true
+verifying golang-github-juju-httpprof-dev, matches: true
+verifying liblttoolbox3-3.5-1, matches: true
+verifying fonts-orya, matches: true
+got error 404 on request for package librust-wasm-bindgen+xxx-debug-only-print-generated-code-dev version 0.2.78-1
+verifying lldpd, matches: true
+verifying libkdsoap-bin, matches: true
+verifying libtime-human-perl, matches: true
+verifying gobjc-s390x-linux-gnu, matches: true
+got error 404 on request for package librust-libsqlite3-sys+buildtime-bindgen-dev version 0.15.0-2
+verifying libcairo-perl, matches: true
+verifying python3-pyside2.qtquickwidgets, matches: true
+verifying php-symfony-polyfill-intl-idn, matches: true
+verifying libxmlsec1-doc, matches: true
+verifying abcl, matches: true
+verifying ntp, matches: true
+verifying libglobus-gram-job-manager-callout-error0, matches: true
+verifying ruby-fast-blank, matches: true
+verifying skkdic, matches: true
+verifying yubikey-personalization-gui, matches: true
+verifying fonts-khmeros, matches: true
+verifying freeipa-healthcheck, matches: true
+verifying libmetkit-data, matches: true
+verifying libmir-core-dev, matches: true
+verifying kgendesignerplugin-bin, matches: true
+verifying libtemplate-multilingual-perl, matches: true
+verifying libaacs-dev, matches: true
+verifying libgnuradio-channels3.8.2, matches: true
+verifying libdist-inkt-role-test-kwalitee-perl, matches: true
+verifying libgwengui-fox16-79, matches: true
+verifying soundkonverter, matches: true
+verifying libbg2-doc, matches: true
+verifying librust-libslirp-sys-dev, matches: true
+verifying php-symfony-semaphore, matches: true
+verifying r-cran-dimred, matches: true
+verifying libqrencode4, matches: true
+verifying xteddy, matches: true
+verifying libspring-test-java, matches: true
+verifying embassy-domsearch, matches: true
+verifying python3-plyara, matches: true
+verifying djvulibre-bin, matches: true
+verifying joe-jupp, matches: true
+verifying librust-mime-dev, matches: true
+verifying libcupt4-doc, matches: true
+verifying mirrormagic-data, matches: true
+verifying libhugs-unix-bundled, matches: true
+verifying golang-github-ziutek-mymysql-dev, matches: true
+verifying git-build-recipe, matches: true
+verifying btrfsmaintenance, matches: true
+verifying kmahjongg, matches: true
+verifying libdtkgui5-bin, matches: true
+verifying faumachine-data, matches: true
+verifying liblingua-stem-it-perl, matches: true
+verifying libmodule-build-tiny-perl, matches: true
+verifying octocatalog-diff, matches: true
+verifying r-cran-ecodist, matches: true
+verifying debconf-i18n, matches: true
+verifying granule, matches: true
+verifying libghc-hxt-http-doc, matches: true
+verifying python3-hiera, matches: true
+verifying gccgo-10-mips64el-linux-gnuabi64, matches: true
+verifying libx2go-server-perl, matches: true
+verifying liblocale-currency-format-perl, matches: true
+verifying libdist-inkt-perl, matches: true
+verifying libluksde-dev, matches: true
+verifying fst-dev, matches: true
+verifying pwman3, matches: true
+verifying node-rollup-plugin-buble, matches: true
+verifying python-bottle-doc, matches: true
+verifying otpw-bin, matches: true
+verifying libapache2-mod-python-doc, matches: true
+verifying libosmocoding-doc, matches: true
+verifying libgrib2c0d, matches: true
+verifying python3-botan, matches: true
+verifying gobjc-10-powerpc64le-linux-gnu, matches: true
+verifying python3-sphinx-panels, matches: true
